@@ -19,11 +19,13 @@ Langkah pertama yang harus dilakukan adalah menjalankan apache dan mysql pada ap
 
 ## 2. Membuat 'Folder Baru'
 
-Lalu buatlah folder baru dengan nama ``lab10_php_oop.`` Kemudian jalankan pada localhost dengan mengakses http://localhost/lab10_php_oop/
+Membuat folder ``lab10_php_oop`` pada root directory web server , misal ***(C:/xampp/htdocs).***
+
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab10_php_oop/
 
 ## 3. Membuat 'File'
 
-Buatlah file baru dengan nama ``mobil.php`` di dalam folder ``lab10_php_oop.`` Lalu buat codingan sebagai berikut dan jalankan pada localhostnya :
+Buatlah file baru dengan nama ``mobil.php`` di dalam folder ``lab10_php_oop`` Lalu ketik kode program sebagai berikut dan jalankan pada localhostnya :
 
 http://localhost/lab10_php_oop/mobil.php
 
@@ -133,7 +135,7 @@ class Form
 
 Lalu dilanjutkan lagi dengan membuat inputan yang akan tersedia pada ``form.php`` ketik kode program berikut :
 
-Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab10_php_oop/form_inputan.php
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab10_php_oop/form_input.php
 
 ```
 <?php
